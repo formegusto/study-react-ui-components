@@ -1,9 +1,9 @@
 import React from "react";
-import AutoLayoutComponent from "./layout/grid/components/AutoLayoutComponent";
+import ResponsiveComponent from "./layout/grid/components/ResponsiveComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <AutoLayoutComponent />;
+  return <ResponsiveComponent />;
 }
 
 export default App;

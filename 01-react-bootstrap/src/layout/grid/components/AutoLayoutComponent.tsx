@@ -6,15 +6,21 @@ import Col from "react-bootstrap/Col";
 function AutoLayoutComponent() {
   return (
     <Container>
-      <Row>
-        <Col xs>1 of 3</Col>
-        <Col xs={6}>2 of 3 (wider)</Col>
-        <Col>3 of 3</Col>
+      <Row className="justify-content-md-center">
+        <Col xs lg="2">
+          1 of 3
+        </Col>
+        <Col md="auto">Contents Width</Col>
+        <Col xs lg="2">
+          3 of 3
+        </Col>
       </Row>
       <Row>
         <Col>1 of 3</Col>
-        <Col xs={5}>2 of 3 (wider)</Col>
-        <Col>3 of 3</Col>
+        <Col md="auto">Variable width content</Col>
+        <Col xs lg="2">
+          3 of 3
+        </Col>
       </Row>
     </Container>
   );
