@@ -1,9 +1,9 @@
 import React from "react";
-import ResponsiveComponent from "./layout/grid/components/ResponsiveComponent";
+import ColPropsComponent from "./layout/grid/components/ColPropsComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <ResponsiveComponent />;
+  return <ColPropsComponent />;
 }
 
 export default App;
