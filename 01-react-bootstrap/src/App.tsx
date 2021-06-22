@@ -1,9 +1,9 @@
 import React from "react";
-import SetWidthComponent from "./layout/grid/components/SetWidthComponent";
+import MediaBasicComponent from "./layout/media/MediaBasicComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <SetWidthComponent />;
+  return <MediaBasicComponent />;
 }
 
 export default App;
