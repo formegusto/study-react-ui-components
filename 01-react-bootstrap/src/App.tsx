@@ -1,9 +1,9 @@
 import React from "react";
-import ColPropsComponent from "./layout/grid/components/ColPropsComponent";
+import SetWidthComponent from "./layout/grid/components/SetWidthComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <ColPropsComponent />;
+  return <SetWidthComponent />;
 }
 
 export default App;
