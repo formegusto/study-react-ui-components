@@ -1,9 +1,9 @@
 import React from "react";
-import MediaListComponent from "./layout/media/MediaListComponent";
+import DismissingComponent from "./components/alerts/DismissingComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <MediaListComponent />;
+  return <DismissingComponent />;
 }
 
 export default App;
