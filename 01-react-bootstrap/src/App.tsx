@@ -1,9 +1,9 @@
 import React from "react";
-import MediaBasicComponent from "./layout/media/MediaBasicComponent";
+import MediaNestingComponent from "./layout/media/MediaNestingComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <MediaBasicComponent />;
+  return <MediaNestingComponent />;
 }
 
 export default App;
