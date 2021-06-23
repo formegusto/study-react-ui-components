@@ -38,7 +38,7 @@ export declare type Variant =
   | string;
 ```
 
-![Alerts%2087b7aaa0bb24400c8a4d9e6c12d971e9/Untitled.png](Alerts%2087b7aaa0bb24400c8a4d9e6c12d971e9/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/123119262-527fb100-d47e-11eb-9779-8d633d149b8c.png)
 
 # 2. Links
 
@@ -79,7 +79,7 @@ export declare type Variant =
 </Alert>
 ```
 
-![Alerts%2087b7aaa0bb24400c8a4d9e6c12d971e9/Untitled%201.png](Alerts%2087b7aaa0bb24400c8a4d9e6c12d971e9/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/52296323/123119298-5ad7ec00-d47e-11eb-9089-751abe39ce28.png)
 
 # 4. Dismissing
 
