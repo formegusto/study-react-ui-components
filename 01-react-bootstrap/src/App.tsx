@@ -1,9 +1,9 @@
 import React from "react";
-import MediaNestingComponent from "./layout/media/MediaNestingComponent";
+import MediaAlignComponent from "./layout/media/MediaAlignComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <MediaNestingComponent />;
+  return <MediaAlignComponent />;
 }
 
 export default App;
