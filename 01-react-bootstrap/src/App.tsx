@@ -1,9 +1,9 @@
 import React from "react";
-import DismissingComponent from "./components/alerts/DismissingComponent";
+import CustomButtonComponent from "./components/alerts/CustomButtonComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <DismissingComponent />;
+  return <CustomButtonComponent />;
 }
 
 export default App;
