@@ -1,9 +1,9 @@
 import React from "react";
-import MediaAlignComponent from "./layout/media/MediaAlignComponent";
+import MediaListComponent from "./layout/media/MediaListComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <MediaAlignComponent />;
+  return <MediaListComponent />;
 }
 
 export default App;
