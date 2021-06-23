@@ -103,3 +103,35 @@ if (show) {
 }
 return <Button onClick={() => setShow(true)}>Show Alert</Button>;
 ```
+
+# 5. Custom Button
+
+- 하지만 물론, X가 아닌, 다른 버튼도 원한다면 추가할 수 있다.
+- 또한 위와 다른점은 Alert의 show props를 활용하면 Fade Effect와 함께 Alert를 표현할 수 있다.
+
+```tsx
+const [show, setShow] = useState<boolean>(true);
+
+return (
+  <>
+    <Alert variant="success" show={show}>
+      <Alert.Heading>How's it going?!</Alert.Heading>
+      <p>
+        Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
+        lacinia odio sem nec elit. Cras mattis consectetur purus sit amet
+        fermentum.
+      </p>
+      <hr />
+      <div className="d-flex justify-content-end">
+        <Button variant="outline-success" onClick={() => setShow(false)}>
+          Close me y'all!
+        </Button>
+      </div>
+    </Alert>
+    {!show && <Button onClick={() => setShow(true)}>Show Alert</Button>}
+  </>
+);
+```
+
+- d-flex는 강제적으로 flex 효과를 줄 때 사용된다.
+- justify-conent-end 는 이름 그대로 flex-end를 줄 때 사용된다.
