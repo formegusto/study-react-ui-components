@@ -30,7 +30,7 @@
 </Media>
 ```
 
-![Media%208bd459cb5ae24380ab58fea4652e48b8/Untitled.png](Media%208bd459cb5ae24380ab58fea4652e48b8/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/123063235-2f3a0f00-d448-11eb-89ac-4d68f1b643eb.png)
 
 # 2. Media Nesting
 
@@ -61,7 +61,7 @@
 </Media>
 ```
 
-![Media%208bd459cb5ae24380ab58fea4652e48b8/Untitled%201.png](Media%208bd459cb5ae24380ab58fea4652e48b8/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/52296323/123063261-34975980-d448-11eb-821b-a3ddd41af2c5.png)
 
 # 3. Media Alignment
 
@@ -170,4 +170,4 @@
 </ul>
 ```
 
-![Media%208bd459cb5ae24380ab58fea4652e48b8/Untitled%202.png](Media%208bd459cb5ae24380ab58fea4652e48b8/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/52296323/123063293-3a8d3a80-d448-11eb-8d37-0ddf5950d4b0.png)
