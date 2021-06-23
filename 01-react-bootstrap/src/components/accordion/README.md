@@ -32,7 +32,7 @@
 - Accordion Component는 eventKey를 통해 Toggle Component에서 Cllapse를 열게되며, Accordion으로 감싸진 Group은 오로지 하나의 collapse show className만을 연다.
 - Accordion.Toggle Component는 as Props로 통해 해당 컴포넌트가 어떤 역할로 작동할 것인지에 대해 정의한다.
 
-![Accordion%208179d2dc40f94da4b5a846bd670ae735/Untitled.png](Accordion%208179d2dc40f94da4b5a846bd670ae735/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/123131466-ae4f3780-d488-11eb-9a56-a2d212d48827.png)
 
 # 2. Fully Collapsed State
 
