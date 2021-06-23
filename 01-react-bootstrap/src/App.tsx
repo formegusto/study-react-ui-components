@@ -1,9 +1,9 @@
 import React from "react";
-import CustomButtonComponent from "./components/alerts/CustomButtonComponent";
+import ContextAwareComponent from "./components/accordion/ContextAwareComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <CustomButtonComponent />;
+  return <ContextAwareComponent />;
 }
 
 export default App;
