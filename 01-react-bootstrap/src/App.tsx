@@ -1,9 +1,9 @@
 import React from "react";
-import BadgeVariantComponent from "./components/badge/BadgeVariantComponent";
+import BreadcrumbsComponent from "./components/breadcrumbs/BreadcrumbsComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <BadgeVariantComponent />;
+  return <BreadcrumbsComponent />;
 }
 
 export default App;
