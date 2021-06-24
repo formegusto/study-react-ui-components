@@ -1,9 +1,9 @@
 import React from "react";
-import BreadcrumbsComponent from "./components/breadcrumbs/BreadcrumbsComponent";
+import ActiveButtonComponent from "./components/buttons/ActiveButtonComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <BreadcrumbsComponent />;
+  return <ActiveButtonComponent />;
 }
 
 export default App;
