@@ -1,9 +1,9 @@
 import React from "react";
-import ContextAwareComponent from "./components/accordion/ContextAwareComponent";
+import BadgeVariantComponent from "./components/badge/BadgeVariantComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <ContextAwareComponent />;
+  return <BadgeVariantComponent />;
 }
 
 export default App;
