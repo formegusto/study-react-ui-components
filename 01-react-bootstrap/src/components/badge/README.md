@@ -25,7 +25,7 @@
 </h6>
 ```
 
-![Badge%20c81294ff08194a6fbaeb1250c0598c59/Untitled.png](Badge%20c81294ff08194a6fbaeb1250c0598c59/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/123187825-dd3fca80-d4d5-11eb-8e48-ac00b8755fcb.png)
 
 # 2. Badge Button
 
