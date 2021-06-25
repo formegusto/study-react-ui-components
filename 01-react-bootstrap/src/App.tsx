@@ -1,9 +1,9 @@
 import React from "react";
-import ActiveButtonComponent from "./components/buttons/ActiveButtonComponent";
+import ToggleGrpComponent from "./components/buttons/ToggleGrpComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <ActiveButtonComponent />;
+  return <ToggleGrpComponent />;
 }
 
 export default App;
