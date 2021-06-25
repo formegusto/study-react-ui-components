@@ -16,7 +16,7 @@
 <Button variant="link">Link</Button>
 ```
 
-![Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled.png](Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/123392795-67705780-d5d8-11eb-9fb3-64db50b7a3f2.png)
 
 # 2. Outline Button
 
@@ -31,7 +31,7 @@
 <Button variant="outline-dark">Dark</Button>
 ```
 
-![Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%201.png](Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/52296323/123392825-6f2ffc00-d5d8-11eb-899c-ce2523bdecaa.png)
 
 # 3. Button tags
 
@@ -46,7 +46,7 @@
 - Button은 링크의 용도로도 쓰일 수 있고, 일반 Button, Submit, Reset의 역할을 할 수 있다.
 - React-BootStreap의 Button Component는 href속성을 넣으면 a 태그로(링크) 작동을하고, as에 input을 넣으면 input으로서(Button, Submit, Reset) 작동할 수 있다.
 
-![Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%202.png](Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/52296323/123392842-76570a00-d5d8-11eb-8d52-536aaf134a5c.png)
 
 # 4. Sizes
 
@@ -64,7 +64,7 @@
 </Button>
 ```
 
-![Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%203.png](Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/52296323/123392867-7f47db80-d5d8-11eb-8ef0-7766cc275890.png)
 
 # 5. Active State
 
@@ -76,7 +76,7 @@
 <Button>Deactive Button</Button>
 ```
 
-![Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%204.png](Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/52296323/123392897-866ee980-d5d8-11eb-8f57-dded0c5da62e.png)
 
 # 6. Disabled State
 
@@ -142,7 +142,7 @@
 </ButtonGroup>
 ```
 
-![Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%205.png](Buttons%20d0d686a86c30423faa46e10784b2c1ba/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/52296323/123392920-8e2e8e00-d5d8-11eb-9a98-7feab11641fa.png)
 
 - 스타일링을 하고 싶다면 위의 예제와 같이 checked를 컨트롤 하면 된다.
 - 최고의 방법은 ButtonGroup에 toggle을 넣기보다 ToggleButtonGroup을 사용하는 것이다. 이 그룹은 ToggleButton 들의 value를 더욱 효과적으로 관리할 수 있게해준다.
