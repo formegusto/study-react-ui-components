@@ -1,9 +1,9 @@
 import React from "react";
-import ToggleGrpComponent from "./components/buttons/ToggleGrpComponent";
+import VerticalGrpComponent from "./components/buttongroup/VerticalGrpComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <ToggleGrpComponent />;
+  return <VerticalGrpComponent />;
 }
 
 export default App;
