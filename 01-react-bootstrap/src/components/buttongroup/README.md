@@ -30,7 +30,7 @@
 </ButtonToolbar>
 ```
 
-![Button%20Groups%2062f9c9121baa40d0b90d281d8d1dba2c/Untitled.png](Button%20Groups%2062f9c9121baa40d0b90d281d8d1dba2c/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/123512151-dd4fee00-d6c0-11eb-8c13-c6351288dcf6.png)
 
 - 또한 ButtonToolbar는 InputGroup과 ButtonGroup을 조화롭게 묶어줄 수도 있다.
 
@@ -55,7 +55,7 @@
 </ButtonToolbar>
 ```
 
-![Button%20Groups%2062f9c9121baa40d0b90d281d8d1dba2c/Untitled%201.png](Button%20Groups%2062f9c9121baa40d0b90d281d8d1dba2c/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/52296323/123512153-e3de6580-d6c0-11eb-937d-ef5da1fa55e9.png)
 
 # 3. Sizing
 
@@ -116,4 +116,4 @@
 </ButtonGroup>
 ```
 
-![Button%20Groups%2062f9c9121baa40d0b90d281d8d1dba2c/Untitled%202.png](Button%20Groups%2062f9c9121baa40d0b90d281d8d1dba2c/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/52296323/123512160-eb057380-d6c0-11eb-80e0-24d94a8aa937.png)
