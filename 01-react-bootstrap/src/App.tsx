@@ -1,9 +1,9 @@
 import React from "react";
-import VerticalGrpComponent from "./components/buttongroup/VerticalGrpComponent";
+import CardComponent from "./components/cards/CardComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <VerticalGrpComponent />;
+  return <CardComponent />;
 }
 
 export default App;
