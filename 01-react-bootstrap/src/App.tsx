@@ -1,9 +1,8 @@
-import React from "react";
-import CardContentComponent from "./components/cards/CardContentComponent";
+import CardColumnsComponent from "./components/cards/CardColumnsComponent";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
-  return <CardContentComponent />;
+  return <CardColumnsComponent />;
 }
 
 export default App;
