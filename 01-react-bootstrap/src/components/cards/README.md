@@ -18,7 +18,7 @@
 </Card>
 ```
 
-![Cards%2026527756b557475983d217be827946f0/Untitled.png](Cards%2026527756b557475983d217be827946f0/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/52296323/124494920-661e0680-ddf2-11eb-9188-9cee0a23dd25.png)
 
 - Card 안에 들어가는 컨텐츠들은 기본적으로 부모 요소의 크기를 따라가는 형식이다.
 
@@ -57,7 +57,7 @@
 </Card>
 ```
 
-![Cards%2026527756b557475983d217be827946f0/Untitled%201.png](Cards%2026527756b557475983d217be827946f0/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/52296323/124494945-6e764180-ddf2-11eb-935d-ed374dd0a49b.png)
 
 - Card Title의 TextContents는 기본적으로 h5 크기를 갖는다.
 - Card Subtitle의 TextContents는 기본적으로 h6 크기를 갖는다. 위에서는 text-muted class를 주어서 색도 연하게 만들었다.
@@ -79,7 +79,7 @@
 </Card>
 ```
 
-![Cards%2026527756b557475983d217be827946f0/Untitled%202.png](Cards%2026527756b557475983d217be827946f0/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/52296323/124494961-7504b900-ddf2-11eb-895b-d264d7f9d0aa.png)
 
 - Card Header를 이용하여 해당 List의 헤더를 달 수 있다.
 
@@ -193,7 +193,7 @@
 </Card>
 ```
 
-![Cards%2026527756b557475983d217be827946f0/Untitled%203.png](Cards%2026527756b557475983d217be827946f0/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/52296323/124494987-7d5cf400-ddf2-11eb-9100-50f056dc961c.png)
 
 # 5. Card Styles
 
@@ -265,13 +265,13 @@
 </CardGroup>
 ```
 
-![Cards%2026527756b557475983d217be827946f0/Untitled%204.png](Cards%2026527756b557475983d217be827946f0/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/52296323/124495003-851c9880-ddf2-11eb-8ab9-e99bd9a5a87c.png)
 
 ## 2. Card Deck
 
 - CardDeck Component는 약간의 마진을 주면서 카드를 배치할 수 있다.
 
-![Cards%2026527756b557475983d217be827946f0/Untitled%205.png](Cards%2026527756b557475983d217be827946f0/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/52296323/124495024-8bab1000-ddf2-11eb-9d7a-c6754826d3c1.png)
 
 ## 3. Card Columns
 
@@ -280,4 +280,4 @@
 - 약간 Column을 채우는 기준이, 가장 합쳤을 때, 작은 칼럼을 가지게 될 열을 우선적으로 채우며, 이를 초과할 경우 다음 열로 이동하는 특성을 가지고 있다.
 - 핀터레스트와 같은 레이아웃을 만들 때, 주로 사용한다.
 
-![Cards%2026527756b557475983d217be827946f0/Untitled%206.png](Cards%2026527756b557475983d217be827946f0/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/52296323/124495043-91a0f100-ddf2-11eb-9e02-d68bfd44a958.png)
