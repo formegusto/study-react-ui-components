@@ -1,8 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import FadeCarouselComponent from "./components/carousel/FadeCarouselComponent";
+import CloseComponent from "./components/close-button/CloseComponent";
 
 function App() {
-  return <FadeCarouselComponent />;
+  return <CloseComponent />;
 }
 
 export default App;
