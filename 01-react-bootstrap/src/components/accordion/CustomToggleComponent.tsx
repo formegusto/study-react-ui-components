@@ -1,19 +1,19 @@
 import React from "react";
-import { useAccordionToggle } from "react-bootstrap";
+// import { useAccordionToggle } from "react-bootstrap";
 import { Accordion, Card } from "react-bootstrap";
 
 interface AtomProps extends React.PropsWithChildren<{ eventKey: string }> {}
 
 function CustomToggle({ eventKey, children }: AtomProps) {
-  const decoratedOnClick = useAccordionToggle(eventKey, () =>
-    console.log("Change Toggle!")
-  );
+  // const decoratedOnClick = useAccordionToggle(eventKey, () =>
+  //   console.log("Change Toggle!")
+  // );
 
   return (
     <button
       type="button"
       style={{ backgroundColor: "pink" }}
-      onClick={decoratedOnClick}
+      // onClick={decoratedOnClick}
     >
       {children}
     </button>

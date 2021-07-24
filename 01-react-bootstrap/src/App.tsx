@@ -1,8 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import CloseComponent from "./components/close-button/CloseComponent";
+import DirectionsComponent from "./components/dropdowns/DirectionsComponent";
 
 function App() {
-  return <CloseComponent />;
+  return <DirectionsComponent />;
 }
 
 export default App;

@@ -12,7 +12,7 @@ function CheckRadioComponent() {
   const [radioValue, setRadioValue] = useState<string>("1");
   return (
     <>
-      <ButtonGroup toggle className="mb-2">
+      <ButtonGroup className="mb-2">
         <ToggleButton
           type="checkbox"
           variant="secondary"
@@ -24,7 +24,7 @@ function CheckRadioComponent() {
         </ToggleButton>
       </ButtonGroup>
       <br />
-      <ButtonGroup toggle>
+      <ButtonGroup>
         {RadioGroup.map((radio, idx) => (
           <ToggleButton
             key={idx}

@@ -16,9 +16,9 @@ function ToolbarInputComponent() {
           <Button variant="secondary">3</Button>
         </ButtonGroup>
         <InputGroup>
-          <InputGroup.Prepend>
+          {/* <InputGroup.Prepend>
             <InputGroup.Text>@</InputGroup.Text>
-          </InputGroup.Prepend>
+          </InputGroup.Prepend> */}
           <FormControl
             type="text"
             placeholder="Input group example"
@@ -34,9 +34,9 @@ function ToolbarInputComponent() {
           <Button variant="secondary">3</Button>
         </ButtonGroup>
         <InputGroup>
-          <InputGroup.Prepend>
+          {/* <InputGroup.Prepend>
             <InputGroup.Text>@</InputGroup.Text>
-          </InputGroup.Prepend>
+          </InputGroup.Prepend> */}
           <FormControl
             type="text"
             placeholder="Input group example"

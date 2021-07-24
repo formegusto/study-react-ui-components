@@ -3,18 +3,18 @@ import { Badge } from "react-bootstrap";
 function BadgeVariantComponent() {
   return (
     <div>
-      <Badge pill variant="primary">
+      <Badge pill bg="primary">
         primary
       </Badge>
-      <Badge pill variant="second">
+      <Badge pill bg="second">
         second
       </Badge>
-      <Badge variant="success">success</Badge>
-      <Badge variant="danger">danger</Badge>
-      <Badge variant="warning">warning</Badge>
-      <Badge variant="info">info</Badge>
-      <Badge variant="light">light</Badge>
-      <Badge variant="dark">dark</Badge>
+      <Badge bg="success">success</Badge>
+      <Badge bg="danger">danger</Badge>
+      <Badge bg="warning">warning</Badge>
+      <Badge bg="info">info</Badge>
+      <Badge bg="light">light</Badge>
+      <Badge bg="dark">dark</Badge>
     </div>
   );
 }

@@ -1,11 +1,11 @@
 import React from "react";
 import "holderjs";
-import Media from "react-bootstrap/Media";
+// import Media from "react-bootstrap/Media";
 
 function MediaAlignComponent() {
   return (
     <>
-      <Media>
+      {/* <Media>
         <img
           width={64}
           height={64}
@@ -78,7 +78,7 @@ function MediaAlignComponent() {
             nascetur ridiculus mus.
           </p>
         </Media.Body>
-      </Media>
+      </Media> */}
     </>
   );
 }

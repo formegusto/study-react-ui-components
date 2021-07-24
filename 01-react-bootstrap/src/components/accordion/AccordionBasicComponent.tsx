@@ -4,7 +4,7 @@ import { Accordion, Button, Card } from "react-bootstrap";
 function AccordionBasicComponent() {
   return (
     <Accordion>
-      <Card>
+      {/* <Card>
         <Card.Header>
           <Accordion.Toggle as={Button} variant="link" eventKey="0">
             Click Me!
@@ -23,7 +23,7 @@ function AccordionBasicComponent() {
         <Accordion.Collapse eventKey="1">
           <Card.Body>Hello! I'm the body</Card.Body>
         </Accordion.Collapse>
-      </Card>
+      </Card> */}
     </Accordion>
   );
 }

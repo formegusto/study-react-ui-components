@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { AccordionContext, useAccordionToggle } from "react-bootstrap";
+// import { AccordionContext, useAccordionToggle } from "react-bootstrap";
 import { Accordion, Card } from "react-bootstrap";
 
 type AtomProps = {
@@ -10,17 +10,17 @@ function ContextAwareToggle({
   eventKey,
   children,
 }: React.PropsWithChildren<AtomProps>) {
-  const currentEventKey = useContext(AccordionContext);
+  // const currentEventKey = useContext(AccordionContext);
 
-  const decoratedOnClick = useAccordionToggle(eventKey);
+  // const decoratedOnClick = useAccordionToggle(eventKey);
 
-  const isCurrentEventKey = currentEventKey === eventKey;
+  // const isCurrentEventKey = currentEventKey === eventKey;
 
   return (
     <button
       type="button"
-      style={{ backgroundColor: isCurrentEventKey ? "pink" : "lavender" }}
-      onClick={decoratedOnClick}
+      // style={{ backgroundColor: isCurrentEventKey ? "pink" : "lavender" }}
+      // onClick={decoratedOnClick}
     >
       {children}
     </button>

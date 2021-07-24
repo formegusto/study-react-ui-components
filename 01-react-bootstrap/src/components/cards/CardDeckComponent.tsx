@@ -1,9 +1,9 @@
-import { CardDeck, Card } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import "holderjs";
 
 function CardDeckComponent() {
   return (
-    <CardDeck>
+    <>
       {[0, 1, 2].map((number, idx) => (
         <Card key={idx}>
           <Card.Img variant="top" src="holder.js/100px160" />
@@ -20,7 +20,7 @@ function CardDeckComponent() {
           </Card.Footer>
         </Card>
       ))}
-    </CardDeck>
+    </>
   );
 }
 

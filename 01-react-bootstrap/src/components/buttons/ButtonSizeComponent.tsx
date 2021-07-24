@@ -19,9 +19,7 @@ function ButtonSizeComponent() {
       </Row>
       <Row>
         <Col>
-          <Button variant="primary" block>
-            Block Button
-          </Button>
+          <Button variant="primary">Block Button</Button>
         </Col>
       </Row>
     </Container>
